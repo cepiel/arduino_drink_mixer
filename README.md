@@ -1,4 +1,4 @@
-# arduino_drink_mixer
+# Arduino Drink Mixer - AKA "The Barduino"
 
 This is the code for 3 different Arduinos, which I used in a project to create an automatic drink machine.
 It was fully functional and could mix several different preset drinks at the press of a button!
